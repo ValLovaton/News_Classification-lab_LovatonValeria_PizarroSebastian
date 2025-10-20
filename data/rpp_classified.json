@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ejemplo 1: Perú firma acuerdo comercial con país vecino",
+    "description": "Las autoridades anunciaron un nuevo marco de cooperación económica.",
+    "link": "https://rpp.pe/ejemplo1",
+    "label_llm": 2
+  },
+  {
+    "title": "Ejemplo 2: Club peruano clasifica a semifinales",
+    "description": "El partido terminó con un marcador ajustado y una gran actuación del arquero.",
+    "link": "https://rpp.pe/ejemplo2",
+    "label_llm": 1
+  },
+  {
+    "title": "Ejemplo 3: Lanzan satélite para observación científica",
+    "description": "El proyecto busca mejorar el monitoreo del clima con nuevas tecnologías.",
+    "link": "https://rpp.pe/ejemplo3",
+    "label_llm": 3
+  }
+]
