@@ -1,0 +1,11 @@
+#requirements.txt
+
+datasets
+transformers
+torch
+evaluate
+scikit-learn
+matplotlib
+seaborn
+pandas==2.2.2
+numpy
